@@ -7,8 +7,6 @@
 
 ---
 
-![Uploading image.png…]()
-
 ![1775500899274](image/Readme/project_image.png)
 
 ## **Project Overview**
