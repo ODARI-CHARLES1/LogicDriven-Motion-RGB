@@ -1,11 +1,11 @@
 
 # **LogicDriven-Motion-RGB**
 
-[![GitHub issues](https://img.shields.io/github/issues/USERNAME/Combinational-Motor-RGB?style=for-the-badge&logo=github)](https://github.com/USERNAME/Combinational-Motor-RGB/issues)
-[![GitHub forks](https://img.shields.io/github/forks/USERNAME/Combinational-Motor-RGB?style=for-the-badge&logo=github)](https://github.com/USERNAME/Combinational-Motor-RGB/network)
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME/Combinational-Motor-RGB?style=for-the-badge&logo=github)](https://github.com/USERNAME/Combinational-Motor-RGB/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://chatgpt.com/c/LICENSE)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github)](https://github.com/ODARI-CHARLES1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://charles.k.odari.portfolio.thegtm.or.ke/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ke.linkedin.com/in/odari-kibisi-charles-329b19331)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daymondodari68@gmail.com)
 
 ---
 
